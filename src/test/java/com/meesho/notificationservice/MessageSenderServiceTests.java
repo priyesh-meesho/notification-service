@@ -19,7 +19,7 @@ import static org.mockito.Mockito.verify;
 
 
 @RunWith(MockitoJUnitRunner.class)
-public class MessageSenderServiceTests {
+public class MessageSenderServiceTests{
     @InjectMocks
     private MessageSenderService messageSenderService;
 
